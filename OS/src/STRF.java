@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class SRTF {
+public class STRF {
 
     static int n;
     static String[] pid;
